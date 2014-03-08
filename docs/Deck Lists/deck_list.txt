@@ -1,0 +1,11 @@
+20 Mountain
+4 Creature_One
+4 Creature_Two
+4 Creature_Three
+4 Creature_Four
+4 Creature_Five
+4 Spell_One
+4 Spell_Two
+4 Spell_Three
+4 Spell_Four
+4 Spell_Five
